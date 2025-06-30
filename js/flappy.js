@@ -101,7 +101,6 @@ function Passaro(alturaJogo) {
 
     this.setY(alturaJogo / 2)
 }
-}
 
 const barreiras = new Barreiras(700, 1200, 200, 400)
 const passaro = new Passaro(700)
